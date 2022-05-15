@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_welcome">Olá! Seja bem-vindo ao Santender Dev Week.</string>
+    <string name="txt_continue">Continuar</string>
+    <string name="txt_account_holder_id">ID do Correntista</string>
+
+</resources>
